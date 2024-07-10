@@ -1,5 +1,5 @@
 # DIP-Cal-02
-toppic details
+How to make a simple calculastor with Python
 
-## Big guys
+## Test the 300x300 pixels
 Test the work with passion and copying
